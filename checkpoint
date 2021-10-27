@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ndigm/workspace/git_rky0930/local_run/object_detection/models/coco/yolo/coco_train/model.ckpt-1533144"
+all_model_checkpoint_paths: "/home/ndigm/workspace/git_rky0930/local_run/object_detection/models/coco/yolo/coco_train/model.ckpt-1533144"
